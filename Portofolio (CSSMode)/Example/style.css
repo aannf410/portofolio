@@ -1,0 +1,93 @@
+* {
+    background-color: #0F0F0F;
+}
+
+h1 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+h3 {
+    color: white;
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;}
+
+h4 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+p {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+footer {
+    color: white;
+}
+
+img {
+    height: 420px; 
+    border-color: white;
+    border: 5px solid white;
+    border-radius: 12px;
+}
+
+.link-color {
+    background-color: #4CAF50; /* Green background */
+    border: none;            /* No border */
+    color: white;            /* White text */
+    padding: 12px 36px;      /* Padding */
+    text-align: center;      /* Centered text */
+    text-decoration: none;   /* No underline */
+    display: inline-block;   /* Inline-block element */
+    font-size: 16px;         /* Font size */
+    margin: 4px 2px;         /* Some margin */
+    cursor: pointer;         /* Pointer/hand icon */
+    border-radius: 12px;     /* Rounded corners */
+}
+
+.about {
+      background-color: #4CAF50; /* Green background */
+    border: none;            /* No border */
+    color: white;            /* White text */
+    padding: 12px 24px;      /* Padding */
+    text-align: center;      /* Centered text */
+    text-decoration: none;   /* No underline */
+    display: inline-block;   /* Inline-block element */
+    font-size: 16px;         /* Font size */
+    margin: 4px 2px;         /* Some margin */
+    cursor: pointer;         /* Pointer/hand icon */
+    border-radius: 12px;     /* Rounded corners */
+}
+
+.contact {
+    background-color: #4CAF50; /* Green background */
+  border: none;            /* No border */
+  color: white;            /* White text */
+  padding: 12px 24px;      /* Padding */
+  text-align: center;      /* Centered text */
+  text-decoration: none;   /* No underline */
+  display: inline-block;   /* Inline-block element */
+  font-size: 16px;         /* Font size */
+  margin: 4px 2px;         /* Some margin */
+  cursor: pointer;         /* Pointer/hand icon */
+  border-radius: 12px;     /* Rounded corners */
+}
